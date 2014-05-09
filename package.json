@@ -1,7 +1,7 @@
 {
   "name": "hecs-dark-theme-syntax",
   "theme": "syntax",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Hecs Dark Theme Syntax for Atom to be paired with Hecs Dark UI",
   "repository": "https://github.com/carlosingles/hecs-dark-theme-syntax",
   "license": "MIT",
